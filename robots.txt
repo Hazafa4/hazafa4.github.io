@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/cv/
+
+Sitemap: https://abuhazafa.com/sitemap.xml
